@@ -1,2 +1,4 @@
 # HelloWorld
-hello
+
+Hello, guys!
+I'm glad to join yours!
